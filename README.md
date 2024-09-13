@@ -19,7 +19,7 @@ Falando um pouco sobre esses benefícios:
 
 **Outros Benefícios**: Integração com serviços da Microsoft, suporte de uma comunidade global e disponibilidade em data centers ao redor do mundo.
 
-## 🚀 Resumo sobre os SLA - Microsfot Azure
+## 🚀 Resumo sobre os SLA - Microsoft Azure
 
 Foi falado em aula também sobre o **SLA** (Service Level Agreement) refere-se ao Acordo de Nível de Serviço. É um contrato que define o nível de serviço esperado entre o Azure e seus clientes. O SLA especifica métricas-chave como **disponibilidade**, **tempo de resposta**, **performance** e **uptime** dos serviços oferecidos pela plataforma.
 
